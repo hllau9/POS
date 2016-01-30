@@ -26,11 +26,31 @@
                    VerticalAlignment="Center"
                    Text="deploy cupcakes" 
                    FontWeight="Heavy"
-                   Foreground="DarkKhaki"/>
+                   />
                 </StackPanel>
             </Button>
         </Controls:WindowCommands>
     </Controls:MetroWindow.RightWindowCommands>
 
-    <Grid/>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Menu Height="30">
+            <MenuItem Header="File" FontSize="15">
+                <MenuItem Header="File" FontSize="15" />
+                <MenuItem Header="File" FontSize="15" />
+                <Separator></Separator>
+                <MenuItem Header="File" FontSize="15" />
+            </MenuItem>
+            <MenuItem Header="Inventory" FontSize="15"/>
+            <MenuItem Header="HR" FontSize="15"/>    
+            <MenuItem Header="Settings" FontSize="15"/>
+        </Menu>
+    </Grid>
 </Controls:MetroWindow>

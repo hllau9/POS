@@ -34,3 +34,5 @@ C:\Users\HuiLeong.Lau\documents\visual studio 2015\Projects\POS_Interface\POS_In
 C:\Users\HuiLeong.Lau\documents\visual studio 2015\Projects\POS_Interface\POS_Interface\obj\Debug\POS_Interface.pdb
 C:\Users\HuiLeong.Lau\documents\visual studio 2015\Projects\POS_Interface\POS_Interface\obj\Debug\View\MainWindow.baml
 C:\Users\HuiLeong.Lau\documents\visual studio 2015\Projects\POS_Interface\POS_Interface\obj\Debug\View\MainWindow.g.cs
+C:\Users\HuiLeong.Lau\documents\visual studio 2015\Projects\POS_Interface\POS_Interface\obj\Debug\View\view1.baml
+C:\Users\HuiLeong.Lau\documents\visual studio 2015\Projects\POS_Interface\POS_Interface\obj\Debug\View\view1.g.cs
